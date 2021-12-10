@@ -1,4 +1,4 @@
-code: example-bundle
+code: helloworld-bundle
 description: This is an example of an Entando bundle
 components:
   widgets:
